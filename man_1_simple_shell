@@ -42,4 +42,4 @@ All files and code used in .shell were created and compiled on Ubuntu 14.04.4 LT
 .SH BUGS
 There are many features and builtin commands that are not implimented in this simple shell such as aliases, cd, and logical operators. When 
 .SH AUTHOR
-Em432 & Joshman00
+Alimson Toluwani & Linda Musyoki
