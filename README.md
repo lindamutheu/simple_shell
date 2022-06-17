@@ -1,6 +1,6 @@
 # Simple Shell Project
 
-![Shell](shell.jpg)
+![Shell](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/235/shell.jpeg)
 # Overview
 ## Write a simple UNIX command interpreter.
 #  Aim
