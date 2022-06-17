@@ -38,4 +38,6 @@
 14. What is EOF / “end-of-file”?
       The EOF operator is used in many programming languages. This operator stands for the end of the file. This means that wherever a compiler or an interpreter encounters this oprator, it will receive an indication that the file it was reading has ended 
 
+The Authors of this project include;
+Linda Musyoki & Alimson Toluwani
 
